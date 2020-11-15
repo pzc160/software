@@ -1,0 +1,15 @@
+C:\Users\24274\source\repos\SpeedTraining\SpeedTraining\bin\Debug\SpeedTraining.exe.config
+C:\Users\24274\source\repos\SpeedTraining\SpeedTraining\bin\Debug\SpeedTraining.exe
+C:\Users\24274\source\repos\SpeedTraining\SpeedTraining\bin\Debug\SpeedTraining.pdb
+C:\Users\24274\source\repos\SpeedTraining\SpeedTraining\obj\Debug\SpeedTraining.Properties.Resources.resources
+C:\Users\24274\source\repos\SpeedTraining\SpeedTraining\obj\Debug\SpeedTraining.csproj.GenerateResource.cache
+C:\Users\24274\source\repos\SpeedTraining\SpeedTraining\obj\Debug\SpeedTraining.csproj.CoreCompileInputs.cache
+C:\Users\24274\source\repos\SpeedTraining\SpeedTraining\obj\Debug\SpeedTraining.exe
+C:\Users\24274\source\repos\SpeedTraining\SpeedTraining\obj\Debug\SpeedTraining.pdb
+C:\Users\24274\source\repos\SpeedTraining\SpeedTraining\obj\Debug\SpeedTraining.csprojAssemblyReference.cache
+C:\Users\24274\source\repos\SpeedTraining\SpeedTraining\obj\Debug\SpeedTraining.Username.resources
+C:\Users\24274\source\repos\SpeedTraining\SpeedTraining\obj\Debug\SpeedTraining.Level.resources
+C:\Users\24274\source\repos\SpeedTraining\SpeedTraining\obj\Debug\SpeedTraining.SelectHero.resources
+C:\Users\24274\source\repos\SpeedTraining\SpeedTraining\obj\Debug\SpeedTraining.Start.resources
+C:\Users\24274\source\repos\SpeedTraining\SpeedTraining\obj\Debug\SpeedTraining.Gameover.resources
+C:\Users\24274\source\repos\SpeedTraining\SpeedTraining\obj\Debug\换装训练.Form1.resources
